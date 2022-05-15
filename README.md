@@ -6,5 +6,5 @@
 
 ### Python Основы программирования
 
-<li><input type="checkbox" disabled />(https://teach-in.ru/course/python-programming-and-data-analysis-basics/ "Лекции Python") </li>
-<li><input type="checkbox" disabled />[Лекции. Python МФТИ](http://judge.mipt.ru/mipt_cs_on_python3/ "Лекции МФТИ") </li>
+<li>:white_large_square:(https://teach-in.ru/course/python-programming-and-data-analysis-basics/ "Лекции Python") </li>
+<li>:white_large_square:[Лекции. Python МФТИ](http://judge.mipt.ru/mipt_cs_on_python3/ "Лекции МФТИ") </li>
